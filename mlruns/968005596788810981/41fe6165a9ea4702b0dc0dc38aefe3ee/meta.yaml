@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/968005596788810981/41fe6165a9ea4702b0dc0dc38aefe3ee/artifacts
+end_time: 1761377830309
+entry_point_name: ''
+experiment_id: '968005596788810981'
+lifecycle_stage: active
+run_id: 41fe6165a9ea4702b0dc0dc38aefe3ee
+run_name: puzzled-bat-538
+run_uuid: 41fe6165a9ea4702b0dc0dc38aefe3ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761377812774
+status: 3
+tags: []
+user_id: satya
